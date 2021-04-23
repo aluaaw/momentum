@@ -1,3 +1,11 @@
 body {
     font-family: sans-serif;
-  }
+}
+
+.name-form .js-userinput {
+  display: none;
+}
+
+.js-greeting {
+  display: none;
+}
